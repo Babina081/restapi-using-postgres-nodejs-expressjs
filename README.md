@@ -2,7 +2,7 @@
 
 
 what i learnt:
-1) Created an api using postgres nodejs and expressjs
+1) Created a rest api using postgres nodejs and expressjs
 2) installed pg express and nodemon
 3) worked with pgAdmin
 4) worked with postgresSQL query
